@@ -15,3 +15,6 @@ Update contact links, add your downloadable CV, and check publication details be
 
 ## Photographs
 All nine supplied photographs are included in `images/` and referenced from the site. The CREATE award photograph is used for CREATE, and other thematic photographs illustrate the research cards; these are illustrative images, not necessarily photographs from each named project. Confirm image permissions, especially for photos depicting children, before publishing publicly.
+
+
+Research impact figures are third-party estimates (AD Scientific Index for citations, h-index and i10-index; Canyam for paper count), accessed 18 October 2026, not directly verified on Google Scholar. Update these figures manually as needed. The full PDF CV is the original Norwegian CV. The English Word CV is a working translation and has not been fully proofread.
